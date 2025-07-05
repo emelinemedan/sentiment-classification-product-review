@@ -1,4 +1,4 @@
-# 💬 Sentiment Classification - Product Reviews
+# Sentiment Classification - Product Reviews
 
 This project performs sentiment analysis on food product reviews from the **Amazon Fine Food Reviews** dataset.  
 It classifies each review as **positive**, **neutral**, or **negative** using NLP preprocessing and a supervised machine learning model.
